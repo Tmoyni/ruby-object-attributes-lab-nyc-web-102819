@@ -17,4 +17,6 @@ class Person
   def job
     @job
   end
+  
+  Person.new
 end
