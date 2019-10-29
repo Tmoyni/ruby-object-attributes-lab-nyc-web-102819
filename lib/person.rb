@@ -19,5 +19,6 @@ class Person
   def job
     @job
   end
-  
 end
+
+BankAccount.new(name, job)
