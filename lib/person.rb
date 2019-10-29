@@ -21,4 +21,3 @@ class Person
   end
 end
 
-Person.new(name, job)
