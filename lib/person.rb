@@ -21,4 +21,4 @@ class Person
   end
 end
 
-BankAccount.new(name, job)
+Person.new(name, job)
