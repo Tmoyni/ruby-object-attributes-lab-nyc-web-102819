@@ -1,4 +1,5 @@
 class Person
+  attr_accessor
   def initialize(name, job)
     @name = name
     @job = job
