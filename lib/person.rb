@@ -18,5 +18,5 @@ class Person
     @job
   end
   
-  Person.new
+  
 end
